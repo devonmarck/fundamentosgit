@@ -8,11 +8,11 @@
 * Clique com botão direto do mouse e selecione **Open Git bash here**
 * Digite 'git init' para inicializar o repositório
    
-
-
-  será criada uma pasta chamada '.git', **não** a apague 
+   será criada uma pasta chamada '.git', **não** a apague 
 * Digite 'git add .' para colocar os arquivos do projeto na **área de staging**
+  
 <img src="https://i1.wp.com/www.markus-gattol.name/misc/mm/si/content/git_git_add.png">
+
 * Digite 'git commit -m "primeira versão do projeto"' para versionar **localmente** o projeto
 * Digite 'git brach -M "main" para renomear a brach principal de 'master' para 'main'
 
@@ -61,9 +61,6 @@ O sinal verde '+' representa o que foi adicionado/modificado no versionamento, e
 
 * no Github, as branches aparecerão assim:
 
-<img src="img/imgBranch.PNG">
-
-* Se necessário retornar para branch `main` pelo terminal do Git, digite `git checkout main`
 
 
 
