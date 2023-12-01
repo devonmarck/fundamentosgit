@@ -62,14 +62,17 @@ O sinal verde '+' representa o que foi adicionado/modificado no versionamento, e
 * no Github, as branches aparecerão assim:
 
 
+<img src="img/imgBranch.PNG">
 
+* Se necessário retornar para branch `main` pelo terminal do Git, digite `git checkout main`
 
+## Merge
 
+* ao retornar para a branch 'main', digite 'git marge <nome da nova branch>' (no exemplo acima, seria a branch chamada  novobatão), desse modo será possivel **inificar a branch alternativa e a branch principal em uma só**
 
+*Assim, tudo o que tinha de alteração na branch  novobotão (por exemplo) se juntará á branch 'main' 
 
-
-
-
+* para finalizar digite 'git push origin main' e suba os arquivos para a branch principal do repositório remoto 
 
 
 
