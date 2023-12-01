@@ -1,4 +1,4 @@
-# tutorial de Git egithub na prática
+# tutorial de Git e Github na prática
 
 ## instalação Git
 * [link com downloads] (https://git-scm.com/download)
