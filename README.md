@@ -90,7 +90,7 @@ O sinal verde '+' representa o que foi adicionado/modificado no versionamento, e
  
 * Para puxar **todas as alterações realizadas do repositório remoto (Github) para o seu repositório local**, digite `git pull`
  
-
+* testando na pratica git pull!
 
 
 
